@@ -3,8 +3,8 @@
     <RegistrationForm />
   </div>
   <div id="app">
-    <router-link to="/about">About</router-link>
-    <router-link to="/registration">Registration</router-link>
+    <RouterLink to="/about">About</RouterLink>
+    <RouterLink to="/registration">Registration</RouterLink>
     <router-view></router-view>
   </div>
 </template>
